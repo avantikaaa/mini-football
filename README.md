@@ -22,3 +22,8 @@
 - a: Rotate the camera towards the left in the first person view
 - d: Rotate the camera towards the right in the first person view
 - Drag on screen: Rotate the camera in box view and third person view (rotation done based on the drag)
+
+# Collaborators:
+- Avantika Mudumbai
+- Lovejeet Singh Parihar
+- Utkarsh Padariya
